@@ -35,7 +35,7 @@ npm run lint
   - Vue-router
   - mock
   - echarts
-- 项目源码: https://github.com/Cheung-Pui-Lam/Vue2FYYMusic
+- 项目源码: https://github.com/Cheung-Pui-Lam/Vue2_manage
 - 项目预览地址(需要挂vpn访问): https://vue2-manage-lovat.vercel.app
 - 项目后端接口使用的是mock
 
